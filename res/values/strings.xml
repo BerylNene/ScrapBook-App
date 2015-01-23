@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapbookApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="algeria">Maqam Echahid Monument, Algeria</string>
+    <string name="kilomanjaro">Mount Kilomanjaro, Tanzania</string>
+    <string name="valley">Valley Of Kings, Egypt</string>
+    <string name="chichen">Chichen Iten, Mexico</string>
+    <string name="algeria1">Picture of Maqam Echahid Monument found in Algeria, it was unveiled in 1982.</string>
+    <string name="kilomanjaro1">Picture of Mount Kilomanjaro found in Tanzania, it is the highest mount in Africa with an elevation of 19,341 feet.</string>
+    <string name="valley1">Picture of Valley Of Kings found in Egypt west of the Nile River.</string>
+    <string name="chichen1">Picture of Chichen Iten found in Mexico, it was built by the Maya people of the Terminal Classic.</string>
+
+</resources>

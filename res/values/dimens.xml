@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="alageria">10dip</dimen>
+    <dimen name="kilomanjaro">10dip</dimen>
+    <dimen name="valley">10dip</dimen>
+    <dimen name="chichen">10dip</dimen>
+
+</resources>

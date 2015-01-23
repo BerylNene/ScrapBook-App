@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapbookApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="algeria">Monumento de los Mártires Monumento , Argelia</string>
+    <string name="kilomanjaro">Monte Kilomanjaro, Tanzania</string>
+    <string name="valley">Valle de los Reyes , Egipto</string>
+    <string name="chichen">Chichen Iten, México</string>
+    <string name="algeria1">Foto del Monumento de los Mártires Monumento que se encuentra en Argelia, que se dio a conocer en 1982.</string>
+    <string name="kilomanjaro1">Imagen del Monte Kilomanjaro encuentra en Tanzania , es el más alto Monte en África con una altura de 19.341 pies.</string>
+    <string name="valley1">Foto del Valle de los Reyes se encontró en Egipto al oeste del río Nilo.</string>
+    <string name="chichen1">Imagen de Chichén Iten se encuentra en México , que fue construido por el pueblo maya del Clásico Terminal.</string>
+
+</resources>
